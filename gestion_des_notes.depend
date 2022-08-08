@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1659906865 source:c:\users\marye\onedrive\bureau\brieef\gestion_des_notes\main.c
+	<stdio.h>
+	<stdlib.h>
+
